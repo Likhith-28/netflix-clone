@@ -2,7 +2,7 @@
 
 A modern Netflix-inspired streaming platform built with React and Vite. Enjoy a sleek UI, trending movies, TV shows, and more! 🚀
 
-[🌐 Live Demo]
+[🌐 Live Demo] (https://232u1a3239.netlify.app/)
 
 [📦 GitHub Repository] (https://github.com/Likhith-28/Netflix-clone.git)
 
